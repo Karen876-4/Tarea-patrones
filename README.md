@@ -47,39 +47,7 @@ src/
 │
 └── README.md
 
-### Compilación y ejecución
 
-Desde la raíz del repositorio:
-
-### 1. Compilar
-
-```bash
-javac -d out src/singleton/ConfiguracionSistema.java \
-             src/strategy/EstrategiaEnvio.java \
-             src/strategy/EnvioEstandar.java \
-             src/strategy/EnvioExpress.java \
-             src/strategy/EnvioProgramado.java \
-             src/observer/ObservadorPedido.java \
-             src/observer/NotificadorCliente.java \
-             src/observer/NotificadorLogistica.java \
-             src/decorator/Notificador.java \
-             src/decorator/NotificadorBase.java \
-             src/decorator/DecoradorNotificador.java \
-             src/decorator/DecoradorLogging.java \
-             src/decorator/DecoradorCifrado.java \
-             src/decorator/DecoradorReintento.java \
-             src/factory/Pedido.java \
-             src/factory/PedidoNacional.java \
-             src/factory/PedidoInternacional.java \
-             src/factory/PedidoFactory.java \
-             src/Main.java
-```
-
-### 2. Ejecutar
-
-```bash
-java -cp out Main
-```
 ## Ejemplo de salida
 
 ```bash
