@@ -46,7 +46,8 @@ src/
 ├── Main.java
 │
 └── README.md
-## Compilación y ejecución
+
+### Compilación y ejecución
 
 Desde la raíz del repositorio:
 
