@@ -1,3 +1,4 @@
+
 # Sistema de Entregas a Domicilio
 
 Proyecto desarrollado en Java aplicando patrones de diseño para la gestión de pedidos y notificaciones en tiempo real.
@@ -9,6 +10,7 @@ Proyecto desarrollado en Java aplicando patrones de diseño para la gestión de 
 - **Factory** → Creación de pedidos según el tipo.
 - **Observer** → Notificación a clientes y logística.
 - **Decorator** → Agregado de funcionalidades a las notificaciones.
+  <img width="1600" height="461" alt="diagrama final" src="https://github.com/user-attachments/assets/e18507ac-6e88-48ef-8c95-d21efbf4eee4" />
 
 ## Estructura de carpetas
 
